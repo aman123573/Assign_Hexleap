@@ -1,0 +1,8 @@
+.btn-see-more{
+    background-color: rgb(44, 157, 255);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 15px 23px;
+    color: #fff;
+}

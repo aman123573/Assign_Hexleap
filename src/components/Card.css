@@ -1,0 +1,35 @@
+
+
+.sports-heading {
+    text-align: center; /* Center the heading */
+    border-bottom: 2px solid #333; /* Add a 2px solid underline */
+    padding-bottom: 10px; /* Optional: Add padding to space out the underline from the text */
+  }
+  
+  .info-container {
+    background-color: #e5e7eb; /* Gray background color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 8px; /* Rounded corners */
+  }
+
+
+  .card-light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Dark theme styles */
+  .card-dark {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .card-dark .grid-item {
+    background-color: #444; /* Dark background color for grid items */
+    color: #fff; /* White text color for grid items */
+  }
+
+  .dark{
+    color: white;
+    background-color: #444;
+  }
